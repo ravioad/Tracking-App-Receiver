@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Point Tracking</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
